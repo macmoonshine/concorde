@@ -1,0 +1,4 @@
+module Concorde {
+    umbrella header "Concorde.h"
+    export *
+}
